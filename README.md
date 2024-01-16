@@ -1,2 +1,2 @@
 # SE-Lab
-This contains all my works of Software Engineering Lab
+This contains all my works in Software Engineering Lab. The project allotted to me was Restaurant Automation System.
